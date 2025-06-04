@@ -4,7 +4,7 @@ It mimics the operation of common IoT devices such as smart lights, thermostats,
 
 This simulation is visualized using a user-friendly graphical interface (GUI), allowing real-time monitoring and control of devices in a virtual smart home environment.
 
-Documentation is provided in the file IoT_sim_documentation.pdf.
+Documentation is provided in the file IoT Monitoring System
 [dashboard_img] (./img/dashboard_img.png)
 ---
 Features
