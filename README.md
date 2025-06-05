@@ -1,5 +1,5 @@
 IoT Monitoring System
-The IoT Monitoring System is a Python-based smart home simulation platform.
+The IoT Monitoring System is a Python-based smart home simulation app.
 It mimics the operation of common IoT devices such as smart lights, thermostats, and security cameras, all managed via a central automation controller.
 
 This simulation is visualized using a user-friendly graphical interface (GUI), allowing real-time monitoring and control of devices in a virtual smart home environment.
@@ -27,15 +27,16 @@ On Windows:
 cd "C:\path\to\IoT-Monitoring System"
 4.	Run the application:
 python main.py
+
 On Linux:
-5.	Open Terminal.
-6.	Navigate to the cloned/downloaded folder:
+6.	Open Terminal.
+7.	Navigate to the cloned/downloaded folder:
 cd /path/to/IoT-Monitoring-System
-7.	Ensure Python is installed:
+8.	Ensure Python is installed:
 python3 --version
-8.	If not installed:
+9.	If not installed:
 sudo apt install python3
-9.	Launch the application:
+10.	Launch the application:
 python3 main.py
 ---
 How to Use the Dashboard
